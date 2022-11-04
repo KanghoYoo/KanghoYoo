@@ -8,10 +8,20 @@
 
 <div align="center">
 	
-### 🙋‍♂️ **About me**
-
-- notion 홈페이지
+### 📢 **About me** 📢
 	
+</div>
+
+<div align="center">
+	<a href="https://notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+	<a href="https://kanghoyoo.github.io/" target="_blank"><img src="https://img.shields.io/badge/Devlop Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+	<a href="https://kanghoyoo.github.io/" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</div>
+
+<div align="center">
+	
+### 📢 **Teck Stack** 📢
+
 </div>
 
 <div align="center">
@@ -25,5 +35,3 @@
 ![Kangho Yoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanghoYoo&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanghoYoo&layout=Demo&theme=dark)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFC94D&height=200&section=footer)
