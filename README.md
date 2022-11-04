@@ -27,4 +27,4 @@
 </p>
 <br />
 
-[![Kangho Yoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanghoYoo)](https://github.com/KanghoYoo/github-readme-stats)
+[![Kangho Yoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanghoyoo)](https://github.com/kanghoyoo/github-readme-stats)
