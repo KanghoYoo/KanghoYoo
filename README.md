@@ -36,10 +36,22 @@
 	<!--<img src="https://img.shields.io/badge/Redux CSS-764ABC?style=flat&logo=Redux&logoColor=white" />-->
 </div>
 
-<div class="separator" style="clear: both;">
 	
 ![Kangho Yoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanghoYoo&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanghoYoo&layout=Demo&theme=dark)
 	
-</div>
+<table>
+  <tr>
+    <td>
+    
+    	![Kangho Yoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanghoYoo&show_icons=true&theme=dark)
+	
+	</td>
+	<td>
+	
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanghoYoo&layout=Demo&theme=dark)
+	
+	</td>
+  <tr>
+</table>
