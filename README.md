@@ -28,6 +28,6 @@
 
 ### 📊 **GitHub Stats** 📊
 
-[![](https://github-readme-stats.vercel.app/api?username=KanghoYoo&count_private=true)](https://github.com/KanghoYoo/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=KanghoYoo&count_private=true&show_icons=true)](https://github.com/KanghoYoo/github-readme-stats)
 
 </div>
