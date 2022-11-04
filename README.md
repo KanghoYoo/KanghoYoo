@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-### 📢 **Teck Stack** 📢
+### 📚️ **Teck Stack** 📚️
 
 </div>
 
