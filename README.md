@@ -15,7 +15,7 @@
 <div align="center">
 	<a href="https://notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 	<a href="https://kanghoyoo.github.io/" target="_blank"><img src="https://img.shields.io/badge/Devlop Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-	<a href="https://kanghoyoo.github.io/" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+	<a href="mailto:kangsick98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
 <div align="center">
