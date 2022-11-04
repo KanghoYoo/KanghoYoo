@@ -6,6 +6,7 @@
 
 </div>
 ### 🙋‍♂️ **About me**
+
 - notion 홈페이지
 
 ### 📚 **Teck Stack**
