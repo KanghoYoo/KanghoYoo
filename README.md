@@ -28,3 +28,4 @@
 	
 ![Kangho Yoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanghoYoo&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanghoYoo&layout=compact&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanghoYoo&langs_count=8)](https://github.com/KanghoYoo/github-readme-stats)
