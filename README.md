@@ -25,6 +25,6 @@
 	<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 	<!--<img src="https://img.shields.io/badge/Redux CSS-764ABC?style=flat&logo=Redux&logoColor=white" />-->
 </p>
-<
+<br />
 ![Kangho Yoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanghoYoo&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanghoYoo&layout=compact&theme=transparent)
