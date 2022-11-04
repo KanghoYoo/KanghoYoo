@@ -8,7 +8,7 @@
 	<img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styled-components&logoColor=white" />
 </div>
 
-<div align="center">
+<div display="flex" >
 ![Kangho Yoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanghoYoo&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanghoYoo&layout=Demo&theme=dark)
