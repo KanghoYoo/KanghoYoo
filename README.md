@@ -5,7 +5,8 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/kinetic27)
+![KanghoYoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanghoYoo&show_icons=true&theme=transparent)
+
 ### Hi there 👋
 
 <!--
