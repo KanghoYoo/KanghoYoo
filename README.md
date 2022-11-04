@@ -25,7 +25,6 @@
 	<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 	<!--<img src="https://img.shields.io/badge/Redux CSS-764ABC?style=flat&logo=Redux&logoColor=white" />-->
 </p>
-<br />
 
 ### 📊 **GitHub Stats** 📊
 
