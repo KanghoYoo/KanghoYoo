@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6795F0&height=230&section=header&text=Kangho%20Yoo&fontSize=80&animation=fadeIn&fontColor=FFFFFF&fontAlignY=40)
+
+<img src="https://img.shields.io/badge/#F7DF1E?style=flat&logo=JavaScript&logoColor=Yellow"/>
 ### Hi there 👋
 
 <!--
