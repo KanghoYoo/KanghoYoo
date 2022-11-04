@@ -26,6 +26,5 @@
 	<!--<img src="https://img.shields.io/badge/Redux CSS-764ABC?style=flat&logo=Redux&logoColor=white" />-->
 </p>
 	
-![](https://github.com/KanghoYoo/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/KanghoYoo/github-stats-transparent/blob/output/generated/languages.svg)
-
+![](https://raw.githubusercontent.com/KanghoYoo/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/KanghoYoo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
