@@ -7,7 +7,7 @@
 ### 📢 **About me** 📢
 
 <p align="center">
-	<a href="https://notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+	<a href="https://www.notion.so/kanghoyoo/Kangho-Yoo-0f38991b652248f7ab0ceb607f51cf40" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 	<a href="https://kanghoyoo.github.io/" target="_blank"><img src="https://img.shields.io/badge/Devlop Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 	<a href="mailto:kangsick98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
